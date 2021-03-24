@@ -1,5 +1,9 @@
 # mi_calculator
 
+<img align="center" alt="GIF" src="cal1.png"/>
+<img align="center" alt="GIF" src="cal2.png"/>
+
+
 A new Flutter project.
 
 ## Getting Started
