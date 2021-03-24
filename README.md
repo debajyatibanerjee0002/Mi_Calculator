@@ -1,7 +1,7 @@
 # mi_calculator
 
-<img align="center" alt="GIF" src="cal1.png"/>
-<img align="center" alt="GIF" src="cal2.png"/>
+<img align="center" alt="GIF" src="cal1.png" width = "20%" heignt = "30%"/>
+<img align="center" alt="GIF" src="cal2.png" width = "20%" heignt = "30%"/>
 
 
 A new Flutter project.
